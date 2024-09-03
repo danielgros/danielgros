@@ -1,7 +1,7 @@
 <p float="left">
   <img src="./ascii-art.png" width="500" />
-  <img src="./ascii-text-art.png" width="400" />
 </p>
+  <img src="./ascii-text-art.png" width="400" />
 
 
 <!--
