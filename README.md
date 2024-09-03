@@ -1,5 +1,4 @@
-## Hi there 👋
-
+hi
 ![ascii-art](./ascii-art.png)
 
 <!--
