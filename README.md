@@ -1,5 +1,5 @@
 <img src="./ascii-art.png" width="500" />
-<img src="./ascii-text-art.png" width="500" style="display: block; margin-top: -40px;"/>
+<img src="./ascii-text-art.png" width="500"/>
 
 
 <!--
