@@ -1,7 +1,7 @@
-
-![ascii-art](./ascii-art.png) 
-
-![ascii-text](./ascii-text-art.png)
+<p float="left">
+  <img src="./ascii-art.png" width="200" />
+  <img src="./ascii-text-art.png" width="200" />
+</p>
 
 
 <!--
