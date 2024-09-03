@@ -1,5 +1,17 @@
-hi
-![ascii-art](./ascii-art.png)
+
+![ascii-art](./ascii-art.png) 
+
+ _   _      _ _
+| | | |    | | |
+| |_| | ___| | | ___
+|  _  |/ _ \ | |/ _ \
+| | | |  __/ | | (_) | __
+\_| |_/\___|_|_|\___/  \ \ 
+                       /_/
+
+  
+
+
 
 <!--
 **danielgros/danielgros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
