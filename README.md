@@ -1,7 +1,5 @@
-<p float="left">
-  <img src="./ascii-art.png" width="500" />
-</p>
-  <img src="./ascii-text-art.png" width="400" />
+<img src="./ascii-art.png" width="500" />
+<img style="margin-top: -10px" src="./ascii-text-art.png" width="500" />
 
 
 <!--
