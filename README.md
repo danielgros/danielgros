@@ -45,7 +45,6 @@
             <a href="https://www.google.com/search?q=helm"><img align="left" width="26px" src="https://cdn.simpleicons.org/helm/black/white" style="padding-right:10px;"></a>
             <a href="https://www.google.com/search?q=chainguard"><img align="left" width="26px" src="https://cdn.simpleicons.org/chainguard/black/white" style="padding-right:10px;"></a>
             <a href="https://www.google.com/search?q=akamai"><img align="left" width="26px" src="https://cdn.simpleicons.org/akamai/black/white" style="padding-right:10px;"></a>
-            <a href="https://www.google.com/search?q=dynatrace"><img align="left" width="26px" src="https://cdn.simpleicons.org/dynatrace/black/white" style="padding-right:10px;"></a>
             <a href="https://www.google.com/search?q=github+actions"><img align="left" width="26px" src="https://cdn.simpleicons.org/githubactions/black/white" style="padding-right:10px;"> </a>
         </td>
         <td>
