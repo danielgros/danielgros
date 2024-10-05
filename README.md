@@ -11,6 +11,11 @@
     <img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="Python Icon" />
 </div>
 
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" alt="JavaScript Icon" /> 
+&nbsp; &nbsp; 
+<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" alt="TypeScript Icon" /> 
+&nbsp; &nbsp; 
+<img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="Python Icon" />
 
 
 ----
