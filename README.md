@@ -1,10 +1,10 @@
 ## Hi I'm Daniel :)
 
-🔭 I’m working on exploring all the different areas within software
+🔭 I’m working on exploring different areas within software
 
 🌱 I’m currently learning data science
 
-👯 I’m looking to collaborate on any project that features emerging research
+👯 I’m looking to collaborate on any projects that feature emerging research
 
 🤔 I’m looking for recommendations of good resources for learning anything and everything about software
 
@@ -25,12 +25,12 @@
         </tr>
         <tr>
             <td>
-                <a href="https://www.google.com/search?q=react"><img align="left" width="26px" src="https://cdn.simpleicons.org/react/black/white" style="padding-right:10px;" /></a>
-                <a href="https://www.google.com/search?q=next.js"><img align="left" width="26px" src="https://cdn.simpleicons.org/next.js/black/white" style="padding-right:10px;" /></a>
-                <a href="https://www.google.com/search?q=angular"><img align="left" width="26px" src="https://cdn.simpleicons.org/angular/black/white" style="padding-right:10px;" /></a>
-                <a href="https://www.google.com/search?q=chakraui"><img align="left" width="26px" src="https://cdn.simpleicons.org/chakraui/black/white" style="padding-right:10px;" /></a>
-                <a href="https://www.google.com/search?q=html5"><img align="left" width="26px" src="https://cdn.simpleicons.org/html5/black/white" style="padding-right:10px;" /></a>
-                <a href="https://www.google.com/search?q=css3"><img align="left" width="26px" src="https://cdn.simpleicons.org/css3/black/white" style="padding-right:10px;" /></a>
+                <a href="https://www.google.com/search?q=react"><img align="left" width="26px" src="https://cdn.simpleicons.org/react/black/white" style="padding:5px;" /></a>
+                <a href="https://www.google.com/search?q=next.js"><img align="left" width="26px" src="https://cdn.simpleicons.org/next.js/black/white" style="padding:5px;" /></a>
+                <a href="https://www.google.com/search?q=angular"><img align="left" width="26px" src="https://cdn.simpleicons.org/angular/black/white" style="padding:5px;" /></a>
+                <a href="https://www.google.com/search?q=chakraui"><img align="left" width="26px" src="https://cdn.simpleicons.org/chakraui/black/white" style="padding:5px;" /></a>
+                <a href="https://www.google.com/search?q=html5"><img align="left" width="26px" src="https://cdn.simpleicons.org/html5/black/white" style="padding:5px;" /></a>
+                <a href="https://www.google.com/search?q=css3"><img align="left" width="26px" src="https://cdn.simpleicons.org/css3/black/white" style="padding:5px;" /></a>
             </td>
             <td>
                 <a href="https://www.google.com/search?q=react"><img align="left" width="26px" src="https://cdn.simpleicons.org/react/black/white" style="padding-right:10px;"> </a>
