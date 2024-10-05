@@ -20,6 +20,8 @@
             <a href="https://www.google.com/search?q=next.js"><img align="left" width="26px" src="https://cdn.simpleicons.org/next.js/black/white" style="padding-right:10px;" /></a>
             <a href="https://www.google.com/search?q=angular"><img align="left" width="26px" src="https://cdn.simpleicons.org/angular/black/white" style="padding-right:10px;" /></a>
             <a href="https://www.google.com/search?q=chakraui"><img align="left" width="26px" src="https://cdn.simpleicons.org/chakraui/black/white" style="padding-right:10px;" /></a>
+            <a href="https://www.google.com/search?q=html5"><img align="left" width="26px" src="https://cdn.simpleicons.org/html5/black/white" style="padding-right:10px;" /></a>
+            <a href="https://www.google.com/search?q=css3"><img align="left" width="26px" src="https://cdn.simpleicons.org/css3/black/white" style="padding-right:10px;" /></a>
         </td>
         <td>
             <a href="https://www.google.com/search?q=react"><img align="left" width="26px" src="https://cdn.simpleicons.org/react/black/white" style="padding-right:10px;"> </a>
@@ -100,6 +102,7 @@
             <a href="https://www.google.com/search?q=npm"><img align="left" width="26px" src="https://cdn.simpleicons.org/npm/black/white" style="padding-right:10px;"></a>
             <a href="https://www.google.com/search?q=anaconda"><img align="left" width="26px" src="https://cdn.simpleicons.org/anaconda/black/white" style="padding-right:10px;"></a>
             <a href="https://www.google.com/search?q=libreoffice"><img align="left" width="26px" src="https://cdn.simpleicons.org/libreoffice/black/white" style="padding-right:10px;"></a>
+            <a href="https://www.google.com/search?q=gnubash"><img align="left" width="26px" src="https://cdn.simpleicons.org/gnubash/black/white" style="padding-right:10px;"></a>
         </td>
     </tr>
 </table>
@@ -112,7 +115,6 @@
     <tr>
         <td>
             <a href="https://www.google.com/search?q=unreal+engine"><img align="left" width="26px" src="https://cdn.simpleicons.org/unrealengine/black/white" style="padding-right:10px;" /></a>
-            <a href="https://www.google.com/search?q=unity"><img align="left" width="26px" src="https://cdn.simpleicons.org/unity/black/white" style="padding-right:10px;" /></a>
         </td>
         <td>
             <a href="https://www.google.com/search?q=figma"><img align="left" width="26px" src="https://cdn.simpleicons.org/figma/black/white" style="padding-right:10px;" /></a>
