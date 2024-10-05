@@ -21,7 +21,7 @@
 [![Plants2LeafPC](https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5)](https://github.com/danielgros/Plants2LeafPC)
 [![danielgros](https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=danielgros&description_lines_count=5)](https://github.com/danielgros/danielgros)
 
-<div style="border: 2px solid #ccc; padding: 10px;">
+<div style="border: 2px solid #666666; padding: 10px;">
   <h3>Public Projects</h3>
   <a href="https://github.com/danielgros/Plants2LeafPC">
     <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5" alt="Plants2LeafPC" />
