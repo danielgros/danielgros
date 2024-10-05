@@ -3,7 +3,7 @@
 I'm a software developer working at American Airlines
 
 ----
-<br>
+<hr>
 
 ### Public Projects
 [![Plants2LeafPC](https://github-readme-stats.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5)](https://github.com/danielgros/Plants2LeafPC)
