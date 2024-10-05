@@ -1,17 +1,21 @@
 
 ## Projects
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgros)](https://github.com/danielgros/github-readme-stats)
+<p>
+<a style="text-decoration: none" align="left" href="https://github.com/danielgros/Plants2LeafPC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&show_owner=false" />
+</a>
+<a style="text-decoration: none" align="left" href="https://github.com/danielgros/danielgros">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielgros&repo=danielgros&show_owner=true" />
+</a>
+</p>
 
 
 ## Github Stats
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=danielgros&count_private=true&show_icons=true&include_all_commits=true">
-</p>
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgros)](https://github.com/danielgros/github-readme-stats)
+
 
 ## Language Stats
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgros&hide=TeX&layout=compact">
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgros)](https://github.com/danielgros/github-readme-stats)
 
 
 <!--
