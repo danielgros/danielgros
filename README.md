@@ -5,11 +5,20 @@
 
 
 #### Languages and Tools
-<div style="display: flex; align-items: center; gap: 20px;">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" alt="JavaScript Icon" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" alt="TypeScript Icon" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="Python Icon" />
+<style>
+    .icon {
+        height: 32px;
+        width: 32px;
+        margin-right: 10px; /* Adjust spacing here */
+    }
+</style>
+
+<div style="display: flex; align-items: center;">
+    <img class="icon" src="https://cdn.simpleicons.org/javascript" alt="JavaScript Icon" />
+    <img class="icon" src="https://cdn.simpleicons.org/typescript" alt="TypeScript Icon" />
+    <img class="icon" src="https://cdn.simpleicons.org/python" alt="Python Icon" />
 </div>
+
 
 
 
