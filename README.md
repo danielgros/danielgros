@@ -116,6 +116,7 @@
     <br/>
     <h6>PROJECTS</h6>
     <br/>
+    <br/>
 </details>
 
 <details>
@@ -145,6 +146,7 @@
     <h6>PROJECTS</h6>
     <a href="https://github.com/danielgros/Plants2LeafPC"> <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5"> </a>
     <br/>
+    <br/>
 </details>
 
 
@@ -164,6 +166,7 @@
     </table>
     <br/>
     <h6>PROJECTS</h6>
+    <br/>
     <br/>
 </details>
 
@@ -193,6 +196,7 @@
     <br/>
     <h6>PROJECTS</h6>
     <br/>
+    <br/>
 </details>
 
 
@@ -215,6 +219,7 @@
     </table>
     <br/>
     <h6>PROJECTS</h6>
+    <br/>
     <br/>
 </details>
 
