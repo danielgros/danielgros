@@ -14,7 +14,7 @@
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgros&show=reviews,prs_merged&show_icons=true&include_all_commits=true&disable_animations=true)
 
 ## Language Stats for Public Repos I Own
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgros&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgros&langs_count=8&layout=compact&size_weight=0.05&count_weight=0.95)
 
 
 <!--
