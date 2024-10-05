@@ -1,13 +1,7 @@
 
 ## Projects
-<p>
-<a style="text-decoration: none" align="left" href="https://github.com/danielgros/Plants2LeafPC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&show_owner=false" />
-</a>
-<a style="text-decoration: none" align="left" href="https://github.com/danielgros/danielgros">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielgros&repo=danielgros&show_owner=true" />
-</a>
-</p>
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgros)](https://github.com/danielgros/github-readme-stats)
+
 
 ## Github Stats
 <p>
