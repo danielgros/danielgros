@@ -27,6 +27,7 @@
         </td>
         <td>
             <a href="https://www.google.com/search?q=react"><img align="left" width="26px" src="https://cdn.simpleicons.org/react/black/white" style="padding-right:10px;"> </a>
+            <a href="https://www.google.com/search?q=kotlin"><img align="left" width="26px" src="https://cdn.simpleicons.org/kotlin/black/white" style="padding-right:10px;"> </a>
         </td>
     </tr>
 </table>
