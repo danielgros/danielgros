@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A software developer</h3>
+<h1 align="center">Hi, I'm Daniel</h1>
+<h3 align="center">software professional, hardware hobbyist</h3>
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/danielmgros"> <img align="left" width="26px" src="https://cdn.simpleicons.org/linkedin" style="padding-right:10px;" /> </a>
@@ -47,13 +47,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielgros&" alt="danielgros" /></p>
-
-
-----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielgros&show_icons=true&locale=en&layout=compact" alt="danielgros" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielgros&show_icons=true&locale=en" alt="danielgros" /></p>
 
 
 
