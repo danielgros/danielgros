@@ -12,7 +12,6 @@
 <img align="left" width="26px" src="https://cdn.simpleicons.org/javascript" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.simpleicons.org/typescript" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.simpleicons.org/python" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.simpleicons.org/java" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.simpleicons.org/c" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.simpleicons.org/cplusplus" style="padding-right:10px;" />
 <br />
