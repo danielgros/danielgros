@@ -49,6 +49,7 @@
     <h6>PROJECTS</h6>
     <a href="https://github.com/AAInternal/airport-inventory-management"> American Airlines Internal Project </a>
     <br/>
+    <br/>
 </details>
 
 
@@ -85,6 +86,7 @@
     <br/>
     <h6>PROJECTS</h6>
     <a href="https://github.com/AAInternal/airport-inventory-management"> American Airlines Internal Project </a>
+    <br/>
     <br/>
 </details>
 
