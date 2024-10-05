@@ -36,6 +36,7 @@
     <tr>
         <th>Infrastructure & DevOps</th>
         <th>Build Tools</th>
+        <th>Version Control</th>
     </tr>
     <tr>
         <td>
@@ -51,6 +52,10 @@
             <a href="https://www.google.com/search?q=babel"><img align="left" width="26px" src="https://cdn.simpleicons.org/babel/black/white" style="padding-right:10px;" /></a>
             <a href="https://www.google.com/search?q=cmake"><img align="left" width="26px" src="https://cdn.simpleicons.org/cmake/black/white" style="padding-right:10px;" /></a>
             <a href="https://www.google.com/search?q=gradle"><img align="left" width="26px" src="https://cdn.simpleicons.org/gradle/black/white" style="padding-right:10px;" /></a>
+        </td>
+        <td>
+            <a href="https://www.google.com/search?q=git"><img align="left" width="26px" src="https://cdn.simpleicons.org/git/black/white" style="padding-right:10px;" /></a>
+            <a href="https://www.google.com/search?q=github"><img align="left" width="26px" src="https://cdn.simpleicons.org/github/black/white" style="padding-right:10px;" /></a>
         </td>
     </tr>
 </table>
@@ -78,7 +83,6 @@
 <table>
     <tr>
         <th>Testing & QA</th>
-        <th>Version Control</th>
     </tr>
     <tr>
         <td>
@@ -89,10 +93,6 @@
             <a href="https://www.google.com/search?q=akamai"><img align="left" width="26px" src="https://cdn.simpleicons.org/akamai/black/white" style="padding-right:10px;"></a>
             <a href="https://www.google.com/search?q=dynatrace"><img align="left" width="26px" src="https://cdn.simpleicons.org/dynatrace/black/white" style="padding-right:10px;"></a>
             <a href="https://www.google.com/search?q=github+actions"><img align="left" width="26px" src="https://cdn.simpleicons.org/githubactions/black/white" style="padding-right:10px;"> </a>
-        </td>
-        <td>
-            <a href="https://www.google.com/search?q=git"><img align="left" width="26px" src="https://cdn.simpleicons.org/git/black/white" style="padding-right:10px;" /></a>
-            <a href="https://www.google.com/search?q=github"><img align="left" width="26px" src="https://cdn.simpleicons.org/github/black/white" style="padding-right:10px;" /></a>
         </td>
     </tr>
 </table>
