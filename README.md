@@ -1,7 +1,7 @@
 
 ### Public Projects
-[![Plants2LeafPC](https://github-readme-stats.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&show_owner=false)](https://github.com/danielgros/Plants2LeafPC)
-[![danielgros](https://github-readme-stats.vercel.app/api/pin/?username=danielgros&repo=danielgros&show_owner=true)](https://github.com/danielgros/danielgros)
+[![Plants2LeafPC](https://github-readme-stats.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5)](https://github.com/danielgros/Plants2LeafPC)
+[![danielgros](https://github-readme-stats.vercel.app/api/pin/?username=danielgros&repo=danielgros&description_lines_count=5)](https://github.com/danielgros/danielgros)
 
 
 ### Github Stats for Public Projects
