@@ -3,7 +3,7 @@
 
 
 
-<b> <samp>Projects </samp></b>
+## Projects
 <p>
 <a style="text-decoration: none" align="left" href="https://github.com/danielgros/Plants2LeafPC">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&show_owner=false" />
@@ -12,11 +12,13 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielgros&repo=danielgros&show_owner=true" />
 </a>
 </p>
-<b> <samp>Github Stats </samp></b>
+
+## Github Stats
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=danielgros&count_private=true&show_icons=true&include_all_commits=true">
 </p>
-<b> <samp>Language Stats </samp></b>
+
+## Language Stats
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgros&hide=TeX&layout=compact">
 </p>
