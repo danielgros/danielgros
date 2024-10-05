@@ -1,20 +1,20 @@
 ### Hi I'm Daniel :)
 
 #### Connect With Me
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/gray" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf9" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/orange/pink" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/_/eee" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/eee/_" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/gray" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/hotpink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0cf" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0cf9" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/00ccff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/00ccff99" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/orange/pink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/eee/_" />
 
-<img height="20" src="https://cdn.simpleicons.org/github?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/simpleicons?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/awesomelists?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/linkedin?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/linkedin?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/linkedin?viewbox=auto" />
 
 #### Languages and Tools
 
