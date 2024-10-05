@@ -125,6 +125,7 @@
             <a href="https://www.google.com/search?q=macos"><img align="left" width="26px" src="https://cdn.simpleicons.org/macos/black/white" style="padding-right:10px;"></a>
             <a href="https://www.google.com/search?q=zsh"><img align="left" width="26px" src="https://cdn.simpleicons.org/zsh/black/white" style="padding-right:10px;"></a>
             <a href="https://www.google.com/search?q=gnubash"><img align="left" width="26px" src="https://cdn.simpleicons.org/gnubash/black/white" style="padding-right:10px;"></a>
+            <a href="https://www.google.com/search?q=vim"><img align="left" width="26px" src="https://cdn.simpleicons.org/vim/black/white" style="padding-right:10px;"></a>
         </td>
         <td>
             <a href="https://www.google.com/search?q=arduino"><img align="left" width="26px" src="https://cdn.simpleicons.org/arduino/black/white" style="padding-right:10px;"></a>
