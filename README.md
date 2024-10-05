@@ -25,12 +25,12 @@
         </tr>
         <tr>
             <td>
-                <a href="https://www.google.com/search?q=react"><img align="left" width="26px" src="https://cdn.simpleicons.org/react/black/white" style="padding:5px;" /></a>
-                <a href="https://www.google.com/search?q=next.js"><img align="left" width="26px" src="https://cdn.simpleicons.org/next.js/black/white" style="padding:5px;" /></a>
-                <a href="https://www.google.com/search?q=angular"><img align="left" width="26px" src="https://cdn.simpleicons.org/angular/black/white" style="padding:5px;" /></a>
-                <a href="https://www.google.com/search?q=chakraui"><img align="left" width="26px" src="https://cdn.simpleicons.org/chakraui/black/white" style="padding:5px;" /></a>
-                <a href="https://www.google.com/search?q=html5"><img align="left" width="26px" src="https://cdn.simpleicons.org/html5/black/white" style="padding:5px;" /></a>
-                <a href="https://www.google.com/search?q=css3"><img align="left" width="26px" src="https://cdn.simpleicons.org/css3/black/white" style="padding:5px;" /></a>
+                <a href="https://www.google.com/search?q=react"><img align="left" width="26px" src="https://cdn.simpleicons.org/react/black/white" style="margin:5px;" /></a>
+                <a href="https://www.google.com/search?q=next.js"><img align="left" width="26px" src="https://cdn.simpleicons.org/next.js/black/white" style="margin:5px;" /></a>
+                <a href="https://www.google.com/search?q=angular"><img align="left" width="26px" src="https://cdn.simpleicons.org/angular/black/white" style="margin:5px;" /></a>
+                <a href="https://www.google.com/search?q=chakraui"><img align="left" width="26px" src="https://cdn.simpleicons.org/chakraui/black/white" style="margin:5px;" /></a>
+                <a href="https://www.google.com/search?q=html5"><img align="left" width="26px" src="https://cdn.simpleicons.org/html5/black/white" style="margin:5px;" /></a>
+                <a href="https://www.google.com/search?q=css3"><img align="left" width="26px" src="https://cdn.simpleicons.org/css3/black/white" style="margin:5px;" /></a>
             </td>
             <td>
                 <a href="https://www.google.com/search?q=react"><img align="left" width="26px" src="https://cdn.simpleicons.org/react/black/white" style="padding-right:10px;"> </a>
