@@ -47,7 +47,7 @@
     </table>
     <br/>
     <h6>PROJECTS</h6>
-    <a href="https://github.com/AAInternal/airport-inventory-management"> <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=airport-inventory-management&description_lines_count=5"> </a>
+    <a href="https://github.com/AAInternal/airport-inventory-management"> American Airlines Internal Project </a>
     <br/>
 </details>
 
@@ -84,6 +84,7 @@
     </table>
     <br/>
     <h6>PROJECTS</h6>
+    <a href="https://github.com/AAInternal/airport-inventory-management"> American Airlines Internal Project </a>
     <br/>
 </details>
 
