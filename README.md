@@ -2,19 +2,9 @@
 
 #### Connect With Me
 <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/gray" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/hotpink" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0cf" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0cf9" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/00ccff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/00ccff99" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/orange/pink" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/_/eee" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/eee/_" />
 
-<img height="20" src="https://cdn.simpleicons.org/linkedin?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/linkedin?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/linkedin?viewbox=auto" />
+<img height="32" src="https://cdn.simpleicons.org/linkedin?viewbox=auto" />
+
 
 #### Languages and Tools
 
