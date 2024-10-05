@@ -16,35 +16,42 @@
 <details>
     <summary>Application Development</summary>
     <h6>SKILLS</h6>
-    <table>
-        <tr>
-            <th>Web Development</th>
-            <th>Mobile Development</th>
-            <th>Desktop Development</th>
-            <th>UI/UX Tools</th>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://www.google.com/search?q=react"><img align="left" width="26px" src="https://cdn.simpleicons.org/react/black/white" style="margin:5px;" /></a>
-                <a href="https://www.google.com/search?q=next.js"><img align="left" width="26px" src="https://cdn.simpleicons.org/next.js/black/white" style="margin:5px;" /></a>
-                <a href="https://www.google.com/search?q=angular"><img align="left" width="26px" src="https://cdn.simpleicons.org/angular/black/white" style="margin:5px;" /></a>
-                <a href="https://www.google.com/search?q=chakraui"><img align="left" width="26px" src="https://cdn.simpleicons.org/chakraui/black/white" style="margin:5px;" /></a>
-                <a href="https://www.google.com/search?q=html5"><img align="left" width="26px" src="https://cdn.simpleicons.org/html5/black/white" style="margin:5px;" /></a>
-                <a href="https://www.google.com/search?q=css3"><img align="left" width="26px" src="https://cdn.simpleicons.org/css3/black/white" style="margin:5px;" /></a>
-            </td>
-            <td>
-                <a href="https://www.google.com/search?q=react"><img align="left" width="26px" src="https://cdn.simpleicons.org/react/black/white" style="padding-right:10px;"> </a>
-                <a href="https://www.google.com/search?q=kotlin"><img align="left" width="26px" src="https://cdn.simpleicons.org/kotlin/black/white" style="padding-right:10px;"> </a>
-            </td>
-            <td>
-                <a href="https://www.google.com/search?q=qt"><img align="left" width="26px" src="https://cdn.simpleicons.org/qt/black/white" style="padding-right:10px;"> </a>
-            </td>
-            <td>
-                <a href="https://www.google.com/search?q=figma"><img align="left" width="26px" src="https://cdn.simpleicons.org/figma/black/white" style="padding-right:10px;" /></a>
-                <a href="https://www.google.com/search?q=invision"><img align="left" width="26px" src="https://cdn.simpleicons.org/invision/black/white" style="padding-right:10px;" /></a>
-            </td>
-        </tr>
-    </table>
+ <style>
+    .icon-container a img {
+        display: inline-block;
+        margin: 5px;
+        vertical-align: middle;
+    }
+</style>
+<table>
+    <tr>
+        <th>Web Development</th>
+        <th>Mobile Development</th>
+        <th>Desktop Development</th>
+        <th>UI/UX Tools</th>
+    </tr>
+    <tr>
+        <td class="icon-container">
+            <a href="https://www.google.com/search?q=react"><img width="26px" src="https://cdn.simpleicons.org/react/black/white" /></a>
+            <a href="https://www.google.com/search?q=next.js"><img width="26px" src="https://cdn.simpleicons.org/next.js/black/white" /></a>
+            <a href="https://www.google.com/search?q=angular"><img width="26px" src="https://cdn.simpleicons.org/angular/black/white" /></a>
+            <a href="https://www.google.com/search?q=chakraui"><img width="26px" src="https://cdn.simpleicons.org/chakraui/black/white" /></a>
+            <a href="https://www.google.com/search?q=html5"><img width="26px" src="https://cdn.simpleicons.org/html5/black/white" /></a>
+            <a href="https://www.google.com/search?q=css3"><img width="26px" src="https://cdn.simpleicons.org/css3/black/white" /></a>
+        </td>
+        <td class="icon-container">
+            <a href="https://www.google.com/search?q=react"><img width="26px" src="https://cdn.simpleicons.org/react/black/white" /></a>
+            <a href="https://www.google.com/search?q=kotlin"><img width="26px" src="https://cdn.simpleicons.org/kotlin/black/white" /></a>
+        </td>
+        <td class="icon-container">
+            <a href="https://www.google.com/search?q=qt"><img width="26px" src="https://cdn.simpleicons.org/qt/black/white" /></a>
+        </td>
+        <td class="icon-container">
+            <a href="https://www.google.com/search?q=figma"><img width="26px" src="https://cdn.simpleicons.org/figma/black/white" /></a>
+            <a href="https://www.google.com/search?q=invision"><img width="26px" src="https://cdn.simpleicons.org/invision/black/white" /></a>
+        </td>
+    </tr>
+</table>
     <br/>
     <h6>PROJECTS</h6>
     <a href="https://github.com/AAInternal/airport-inventory-management"> American Airlines Internal Project </a>
