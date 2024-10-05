@@ -11,24 +11,24 @@
 ### Languages and Tools
 
 #### General-Purpose
-<img align="left" width="26px" src="https://cdn.simpleicons.org/javascript" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.simpleicons.org/typescript" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.simpleicons.org/python" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.simpleicons.org/c" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.simpleicons.org/cplusplus" style="padding-right:10px;" />
+<a href="https://google.com/search?q=javascript"> <img align="left" width="26px" src="https://cdn.simpleicons.org/javascript" style="padding-right:10px;" /> </a>
+<a href="https://google.com"> <img align="left" width="26px" src="https://cdn.simpleicons.org/typescript" style="padding-right:10px;" /> </a>
+<a href="https://google.com"> <img align="left" width="26px" src="https://cdn.simpleicons.org/python" style="padding-right:10px;" /> </a>
+<a href="https://google.com"> <img align="left" width="26px" src="https://cdn.simpleicons.org/c" style="padding-right:10px;" /> </a>
+<a href="https://google.com"> <img align="left" width="26px" src="https://cdn.simpleicons.org/cplusplus" style="padding-right:10px;" /> </a>
 <br />
 
 #### Testing
-<img align="left" width="26px" src="https://cdn.simpleicons.org/cypress" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.simpleicons.org/jest" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.simpleicons.org/mocha" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.simpleicons.org/selenium" style="padding-right:10px;" />
+<a href="https://google.com"> <img align="left" width="26px" src="https://cdn.simpleicons.org/cypress" style="padding-right:10px;" /> </a>
+<a href="https://google.com"> <img align="left" width="26px" src="https://cdn.simpleicons.org/jest" style="padding-right:10px;" /> </a>
+<a href="https://google.com"> <img align="left" width="26px" src="https://cdn.simpleicons.org/mocha" style="padding-right:10px;" /> </a>
+<a href="https://google.com"> <img align="left" width="26px" src="https://cdn.simpleicons.org/selenium" style="padding-right:10px;" /> </a>
 <br />
 
 #### AI
-<img align="left" width="26px" src="https://cdn.simpleicons.org/tensorflow" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.simpleicons.org/apachespark" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.simpleicons.org/opencv" style="padding-right:10px;" />
+<a href="https://google.com"> <img align="left" width="26px" src="https://cdn.simpleicons.org/tensorflow" style="padding-right:10px;" /> </a>
+<a href="https://google.com"> <img align="left" width="26px" src="https://cdn.simpleicons.org/apachespark" style="padding-right:10px;" /> </a>
+<a href="https://google.com"> <img align="left" width="26px" src="https://cdn.simpleicons.org/opencv" style="padding-right:10px;" /> </a>
 <br />
 
 ----
