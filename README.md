@@ -15,14 +15,9 @@
 ### GitHub Statistics
 ![Daniel's GitHub stats](https://github-readme-stats-daniel-gros-projects.vercel.app/api?username=danielgros&show=reviews,prs_merged&show_icons=true&rank_icon=github&include_all_commits=true&disable_animations=true&hide_title=true&exclude_repo=Obsidian-Vault)
 
-> **Note:**
-> These statistics do NOT include contributions made to private repositories or repositories owned by other organizations such as my employer
-
 ### Public Projects
 [![Plants2LeafPC](https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5)](https://github.com/danielgros/Plants2LeafPC)
 [![danielgros](https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=danielgros&description_lines_count=5)](https://github.com/danielgros/danielgros)
-
-
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/danielmgros"> <img align="left" width="26px" src="https://cdn.simpleicons.org/linkedin" style="padding-right:10px;" /> </a>
