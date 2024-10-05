@@ -105,7 +105,7 @@
 
 <details>
     <summary>Data Science</summary>
-    <h4>Skills</h4>
+    <h2>Skills</h2>
     <table>
         <tr>
             <th>Data Science & AI</th>
@@ -126,7 +126,7 @@
             </td>
         </tr>
     </table>     
-    <h4>Projects</h4>
+    <h2>Projects</h2>
     <a href="https://github.com/danielgros/Plants2LeafPC"> <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5"> </a>
 </details>
 
