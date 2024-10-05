@@ -16,13 +16,18 @@
 ### Public Projects
 [![Plants2LeafPC](https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5)](https://github.com/danielgros/Plants2LeafPC)
 
-
-<!-- more stats
-![](https://github-profile-trophy.vercel.app/?username=danielgros)
-![](https://github-readme-streak-stats.herokuapp.com/?user=danielgros)
--->
-
+### Recent Activity
 <!--START_SECTION:activity-->
+
+
+
+<!-- more stats, these only use public repos
+### GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=danielgros)
+
+### GitHub Streaks
+![](https://github-readme-streak-stats.herokuapp.com/?user=danielgros)
+--> 
 
 <!--
 **danielgros/danielgros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
