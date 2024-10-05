@@ -26,43 +26,43 @@
     <tr>
         <td>
             <a href="https://www.google.com/search?q=react">
-                <img width="26px" src="https://cdn.simpleicons.org/react/black/white" style="display: inline-block; margin: 5px; vertical-align: top;" />
-            </a>
+                <img width="26px" src="https://cdn.simpleicons.org/react/black/white" style="display: inline-block; margin: 5px; vertical-align: middle;" />
+            </a>&nbsp;
             <a href="https://www.google.com/search?q=next.js">
-                <img width="26px" src="https://cdn.simpleicons.org/next.js/black/white" style="display: inline-block; margin: 5px; vertical-align: top;" />
-            </a>
+                <img width="26px" src="https://cdn.simpleicons.org/next.js/black/white" style="display: inline-block; margin: 5px; vertical-align: middle;" />
+            </a>&nbsp;
             <a href="https://www.google.com/search?q=angular">
-                <img width="26px" src="https://cdn.simpleicons.org/angular/black/white" style="display: inline-block; margin: 5px; vertical-align: top;" />
-            </a>
+                <img width="26px" src="https://cdn.simpleicons.org/angular/black/white" style="display: inline-block; margin: 5px; vertical-align: middle;" />
+            </a>&nbsp;
             <a href="https://www.google.com/search?q=chakraui">
-                <img width="26px" src="https://cdn.simpleicons.org/chakraui/black/white" style="display: inline-block; margin: 5px; vertical-align: top;" />
-            </a>
+                <img width="26px" src="https://cdn.simpleicons.org/chakraui/black/white" style="display: inline-block; margin: 5px; vertical-align: middle;" />
+            </a>&nbsp;
             <a href="https://www.google.com/search?q=html5">
-                <img width="26px" src="https://cdn.simpleicons.org/html5/black/white" style="display: inline-block; margin: 5px; vertical-align: top;" />
-            </a>
+                <img width="26px" src="https://cdn.simpleicons.org/html5/black/white" style="display: inline-block; margin: 5px; vertical-align: middle;" />
+            </a>&nbsp;
             <a href="https://www.google.com/search?q=css3">
-                <img width="26px" src="https://cdn.simpleicons.org/css3/black/white" style="display: inline-block; margin: 5px; vertical-align: top;" />
+                <img width="26px" src="https://cdn.simpleicons.org/css3/black/white" style="display: inline-block; margin: 5px; vertical-align: middle;" />
             </a>
         </td>
         <td>
             <a href="https://www.google.com/search?q=react">
-                <img width="26px" src="https://cdn.simpleicons.org/react/black/white" style="display: inline-block; margin: 5px; vertical-align: top;" />
-            </a>
+                <img width="26px" src="https://cdn.simpleicons.org/react/black/white" style="display: inline-block; margin: 5px; vertical-align: middle;" />
+            </a>&nbsp;
             <a href="https://www.google.com/search?q=kotlin">
-                <img width="26px" src="https://cdn.simpleicons.org/kotlin/black/white" style="display: inline-block; margin: 5px; vertical-align: top;" />
+                <img width="26px" src="https://cdn.simpleicons.org/kotlin/black/white" style="display: inline-block; margin: 5px; vertical-align: middle;" />
             </a>
         </td>
         <td>
             <a href="https://www.google.com/search?q=qt">
-                <img width="26px" src="https://cdn.simpleicons.org/qt/black/white" style="display: inline-block; margin: 5px; vertical-align: top;" />
+                <img width="26px" src="https://cdn.simpleicons.org/qt/black/white" style="display: inline-block; margin: 5px; vertical-align: middle;" />
             </a>
         </td>
         <td>
             <a href="https://www.google.com/search?q=figma">
-                <img width="26px" src="https://cdn.simpleicons.org/figma/black/white" style="display: inline-block; margin: 5px; vertical-align: top;" />
-            </a>
+                <img width="26px" src="https://cdn.simpleicons.org/figma/black/white" style="display: inline-block; margin: 5px; vertical-align: middle;" />
+            </a>&nbsp;
             <a href="https://www.google.com/search?q=invision">
-                <img width="26px" src="https://cdn.simpleicons.org/invision/black/white" style="display: inline-block; margin: 5px; vertical-align: top;" />
+                <img width="26px" src="https://cdn.simpleicons.org/invision/black/white" style="display: inline-block; margin: 5px; vertical-align: middle;" />
             </a>
         </td>
     </tr>
