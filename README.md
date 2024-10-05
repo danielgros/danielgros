@@ -168,7 +168,7 @@
 
 <details>
     <summary>Public Projects</summary>
-    <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5)](https://github.com/danielgros/Plants2LeafPC">
+    <a href="https://github.com/danielgros/Plants2LeafPC"> <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5"> </a>
 </details>
 
 
