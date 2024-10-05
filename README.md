@@ -15,6 +15,7 @@
 
 <details>
     <summary>Application Development</summary>
+    <h4>SKILLS</h4>
     <table>
         <tr>
             <th>Web Development</th>
@@ -104,7 +105,7 @@
 
 <details>
     <summary>Data Science</summary>
-    <h3>SKILLS</h3>
+    <h4>SKILLS</h4>
     <table>
         <tr>
             <th>Data Science & AI</th>
