@@ -153,6 +153,8 @@
 <br/>
 <br/>
 
+## Stats
+
 <details>
     <summary>Most Used Languages</summary>
     <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api/top-langs/?username=danielgros&langs_count=20&layout=compact&size_weight=0.1&count_weight=0.9&hide_title=true&exclude_repo=Obsidian-Vault">
@@ -161,12 +163,12 @@
 
 <details>
     <summary>GitHub Statistics</summary>
-    ![Daniel's GitHub stats](https://github-readme-stats-daniel-gros-projects.vercel.app/api?username=danielgros&show=reviews,prs_merged&show_icons=true&rank_icon=github&include_all_commits=true&disable_animations=true&hide_title=true&exclude_repo=Obsidian-Vault)
+    <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api?username=danielgros&show=reviews,prs_merged&show_icons=true&rank_icon=github&include_all_commits=true&disable_animations=true&hide_title=true&exclude_repo=Obsidian-Vault">
 </details>
 
 <details>
     <summary>Public Projects</summary>
-    [![Plants2LeafPC](https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5)](https://github.com/danielgros/Plants2LeafPC)
+    <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5)](https://github.com/danielgros/Plants2LeafPC">
 </details>
 
 
