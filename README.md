@@ -1,10 +1,5 @@
 <h2 align="center">Hi, I'm Daniel: software professional & hardware hobbyist</h1>
 
-### Connect With Me
-<a href="https://www.linkedin.com/in/danielmgros"> <img align="left" width="26px" src="https://cdn.simpleicons.org/linkedin" style="padding-right:10px;" /> </a>
-<a href="https://stackoverflow.com/users/9965315"> <img align="left" width="26px" src="https://cdn.simpleicons.org/stackoverflow" style="padding-right:10px;" /> </a>
-<br />
-<br />
 
 
 ### Languages and Tools
@@ -21,31 +16,23 @@
 [![Plants2LeafPC](https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5)](https://github.com/danielgros/Plants2LeafPC)
 [![danielgros](https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=danielgros&description_lines_count=5)](https://github.com/danielgros/danielgros)
 
-<div style="border: 2px solid #666666; padding: 10px;">
-  <h3>Public Projects</h3>
-  <a href="https://github.com/danielgros/Plants2LeafPC">
-    <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5" alt="Plants2LeafPC" />
-  </a>
-  <a href="https://github.com/danielgros/danielgros">
-    <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=danielgros&description_lines_count=5" alt="danielgros" />
-  </a>
-</div>
 
-
-> ### Public Projects
-> [![Plants2LeafPC](https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5)](https://github.com/danielgros/Plants2LeafPC)
-> [![danielgros](https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=danielgros&description_lines_count=5)](https://github.com/danielgros/danielgros)
-
-
-
-
-### Public Project Statistics
+### Most Used Languages
 ![Top Langs](https://github-readme-stats-daniel-gros-projects.vercel.app/api/top-langs/?username=danielgros&langs_count=20&layout=compact&size_weight=0&count_weight=1)
 
 ![Daniel's GitHub stats](https://github-readme-stats-daniel-gros-projects.vercel.app/api?username=danielgros&show=reviews,prs_merged&show_icons=true&rank_icon=github&include_all_commits=true&disable_animations=true)
 
 > **Note:**
 > These statistics do NOT include contributions made to private repositories or repositories owned by other organizations such as my employer
+
+
+
+
+### Connect With Me
+<a href="https://www.linkedin.com/in/danielmgros"> <img align="left" width="26px" src="https://cdn.simpleicons.org/linkedin" style="padding-right:10px;" /> </a>
+<a href="https://stackoverflow.com/users/9965315"> <img align="left" width="26px" src="https://cdn.simpleicons.org/stackoverflow" style="padding-right:10px;" /> </a>
+<br />
+<br />
 
 
 <!-- more stats
