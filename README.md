@@ -18,6 +18,12 @@
 </div>
 
 
+![JavaScript Icon](https://cdn.simpleicons.org/javascript) &nbsp; &nbsp;
+![TypeScript Icon](https://cdn.simpleicons.org/typescript) &nbsp; &nbsp;
+![Python Icon](https://cdn.simpleicons.org/python)
+
+
+
 
 
 ----
