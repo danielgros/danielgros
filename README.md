@@ -9,7 +9,6 @@
 🤔 I’m looking for recommendations of good resources for learning anything and everything about software
 
 <br/>
-<br/>
 
 
 ## What I've Learned Thus Far
@@ -191,7 +190,6 @@
 
 
 
-<br/>
 <br/>
 
 ## Stats
