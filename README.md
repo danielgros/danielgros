@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Daniel</h1>
-<h3 align="center">software professional, hardware hobbyist</h3>
+<h3 align="center">software professional & hardware hobbyist</h3>
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/danielmgros"> <img align="left" width="26px" src="https://cdn.simpleicons.org/linkedin" style="padding-right:10px;" /> </a>
