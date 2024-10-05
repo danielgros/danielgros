@@ -155,7 +155,7 @@
 
 <details>
     <summary>Most Used Languages</summary>
-    ![Top Langs](https://github-readme-stats-daniel-gros-projects.vercel.app/api/top-langs/?username=danielgros&langs_count=20&layout=compact&size_weight=0.1&count_weight=0.9&hide_title=true&exclude_repo=Obsidian-Vault)
+    <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api/top-langs/?username=danielgros&langs_count=20&layout=compact&size_weight=0.1&count_weight=0.9&hide_title=true&exclude_repo=Obsidian-Vault">
 </details> 
 
 
