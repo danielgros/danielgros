@@ -76,6 +76,7 @@
         <td>
             <a href="https://www.google.com/search?q=postgresql"><img align="left" width="26px" src="https://cdn.simpleicons.org/postgresql/black/white" style="padding-right:10px;"></a>
             <a href="https://www.google.com/search?q=prisma"><img align="left" width="26px" src="https://cdn.simpleicons.org/prisma/black/white" style="padding-right:10px;"></a>
+            <a href="https://www.google.com/search?q=teradata"><img align="left" width="26px" src="https://cdn.simpleicons.org/teradata/black/white" style="padding-right:10px;"></a>
         </td>
     </tr>
 </table>        
