@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Daniel, a Software Professional & Hardware Hobbyist</h1>
+<h1 align="center">software professional & hardware hobbyist</h1>
 
 ### Languages and Tools
 
