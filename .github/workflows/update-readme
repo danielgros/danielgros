@@ -2,14 +2,20 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '*/10 * * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+          contents: write
 
     steps:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+            COMMIT_MSG: "Update GitHub Activity in Readme.md"
+            MAX_LINES: 10
+            COMMIT_NAME: GitHub Activity Readme
