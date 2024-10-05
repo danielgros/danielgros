@@ -109,7 +109,7 @@
         </td>
         <td>
             <a href="https://www.google.com/search?q=unreal+engine"><img align="left" width="26px" src="https://cdn.simpleicons.org/unrealengine/black/white" style="padding-right:10px;" /></a>
-            <a href="https://www.google.com/search?q=godot"><img align="left" width="26px" src="https://cdn.simpleicons.org/godot/black/white" style="padding-right:10px;" /></a>
+            <a href="https://www.google.com/search?q=godotengine"><img align="left" width="26px" src="https://cdn.simpleicons.org/godotengine/black/white" style="padding-right:10px;" /></a>
         </td>
         <td>
             <a href="https://www.google.com/search?q=figma"><img align="left" width="26px" src="https://cdn.simpleicons.org/figma/black/white" style="padding-right:10px;" /></a>
