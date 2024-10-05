@@ -5,11 +5,6 @@
 
 
 #### Languages and Tools
-<style>
-    .icon {
-        margin-right: 2px; /* Adjust spacing here */
-    }
-</style>
 
 <div style="display: flex; align-items: center;">
     <img height="32" width="32" class="icon" src="https://cdn.simpleicons.org/javascript" alt="JavaScript Icon" />
@@ -18,9 +13,9 @@
 </div>
 
 
-![JavaScript Icon](https://cdn.simpleicons.org/javascript) &nbsp; &nbsp;
-![TypeScript Icon](https://cdn.simpleicons.org/typescript) &nbsp; &nbsp;
-![Python Icon](https://cdn.simpleicons.org/python)
+![10](https://cdn.simpleicons.org/javascript) &nbsp; &nbsp;
+![10](https://cdn.simpleicons.org/typescript) &nbsp; &nbsp;
+![10](https://cdn.simpleicons.org/python)
 
 
 
