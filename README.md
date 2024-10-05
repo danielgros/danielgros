@@ -1,10 +1,8 @@
-<h2 align="center">Hi, I'm Daniel: software professional & hardware hobbyist</h2>
-
-
-### Connect With Me
+<h1 align="center">Hi, I'm Daniel: software professional & hardware hobbyist</h1>
 <a href="https://www.linkedin.com/in/danielmgros"> <img align="left" width="26px" src="https://cdn.simpleicons.org/linkedin" style="padding-right:10px;" /> </a>
 <a href="https://stackoverflow.com/users/9965315"> <img align="left" width="26px" src="https://cdn.simpleicons.org/stackoverflow" style="padding-right:10px;" /> </a>
 <br />
+
 
 
 ### Languages and Tools
