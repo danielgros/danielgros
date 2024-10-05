@@ -11,7 +11,7 @@
 
 
 ## Github Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgros&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgros&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
 
 ## Language Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgros&langs_count=8&layout=compact)
