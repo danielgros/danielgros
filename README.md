@@ -1,4 +1,4 @@
-<h3 style="font-size: 24px;">Languages and Tools</h3>
+## Languages and Tools
 
 
 <table>
