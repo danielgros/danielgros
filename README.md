@@ -13,6 +13,8 @@
 > **Note:**
 > These statistics do NOT include contributions made to private repositories or repositories owned by other organizations such as my employer
 
+----
+
 <!--
 **danielgros/danielgros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
