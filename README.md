@@ -1,4 +1,4 @@
-<h1 align="center">software professional & hardware hobbyist</h1>
+software professional & hardware hobbyist
 
 ### Languages and Tools
 
