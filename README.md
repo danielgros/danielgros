@@ -8,7 +8,7 @@
 ### Public Project Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgros&langs_count=20&layout=compact&size_weight=0&count_weight=1)
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgros&show=reviews,prs_merged&show_icons=true&include_all_commits=true&disable_animations=true)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgros&show=reviews,prs_merged&show_icons=true&rank_icon=percentage&include_all_commits=true&disable_animations=true)
 
 > **Note:**
 > These statistics do NOT include contributions made to private repositories or repositories owned by other organizations such as my employer
