@@ -14,6 +14,8 @@
             <a href="https://www.google.com/search?q=javascript"><img align="left" width="26px" src="https://cdn.simpleicons.org/javascript/black/white" style="padding-right:10px;"></a>
             <a href="https://www.google.com/search?q=typescript"><img align="left" width="26px" src="https://cdn.simpleicons.org/typescript/black/white" style="padding-right:10px;"></a>
             <a href="https://www.google.com/search?q=python"><img align="left" width="26px" src="https://cdn.simpleicons.org/python/black/white" style="padding-right:10px;"></a>
+            <a href="https://www.google.com/search?q=c"><img align="left" width="26px" src="https://cdn.simpleicons.org/c/black/white" style="padding-right:10px;"></a>
+            <a href="https://www.google.com/search?q=cplusplus"><img align="left" width="26px" src="https://cdn.simpleicons.org/cplusplus/black/white" style="padding-right:10px;"></a>
         </td>
         <td>
             <a href="https://www.google.com/search?q=react"><img align="left" width="26px" src="https://cdn.simpleicons.org/react/black/white" style="padding-right:10px;" /></a>
