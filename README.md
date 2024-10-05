@@ -1,5 +1,3 @@
-software professional & hardware hobbyist
-
 ### Languages and Tools
 
 
