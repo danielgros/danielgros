@@ -6,8 +6,6 @@
 <table>
     <tr>
         <th>Programming Languages</th>
-        <th>Web Development</th>
-        <th>Mobile Development</th>
     </tr>
     <tr>
         <td>
@@ -17,6 +15,17 @@
             <a href="https://www.google.com/search?q=c"><img align="left" width="26px" src="https://cdn.simpleicons.org/c/black/white" style="padding-right:10px;"></a>
             <a href="https://www.google.com/search?q=cplusplus"><img align="left" width="26px" src="https://cdn.simpleicons.org/cplusplus/black/white" style="padding-right:10px;"></a>
         </td>
+    </tr>
+</table>
+
+
+<table>
+    <tr>
+        <th>Web Development</th>
+        <th>Mobile Development</th>
+        <th>Desktop Development</th>
+    </tr>
+    <tr>
         <td>
             <a href="https://www.google.com/search?q=react"><img align="left" width="26px" src="https://cdn.simpleicons.org/react/black/white" style="padding-right:10px;" /></a>
             <a href="https://www.google.com/search?q=next.js"><img align="left" width="26px" src="https://cdn.simpleicons.org/next.js/black/white" style="padding-right:10px;" /></a>
@@ -28,6 +37,9 @@
         <td>
             <a href="https://www.google.com/search?q=react"><img align="left" width="26px" src="https://cdn.simpleicons.org/react/black/white" style="padding-right:10px;"> </a>
             <a href="https://www.google.com/search?q=kotlin"><img align="left" width="26px" src="https://cdn.simpleicons.org/kotlin/black/white" style="padding-right:10px;"> </a>
+        </td>
+        <td>
+            <a href="https://www.google.com/search?q=qt"><img align="left" width="26px" src="https://cdn.simpleicons.org/qt/black/white" style="padding-right:10px;"> </a>
         </td>
     </tr>
 </table>
