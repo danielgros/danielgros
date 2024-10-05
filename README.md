@@ -40,12 +40,13 @@
     </tr>
     <tr>
         <td>
-            <a href="https://www.google.com/search?q=jest"><img align="left" width="26px" src="https://cdn.simpleicons.org/jest/black/white" style="padding-right:10px;" /></a>
-            <a href="https://www.google.com/search?q=mocha"><img align="left" width="26px" src="https://cdn.simpleicons.org/mocha/black/white" style="padding-right:10px;" /></a>
-            <a href="https://www.google.com/search?q=apache+jmeter"><img align="left" width="26px" src="https://cdn.simpleicons.org/apachejmeter/black/white" style="padding-right:10px;" /></a>
-            <a href="https://www.google.com/search?q=blazemeter"><img align="left" width="26px" src="https://cdn.simpleicons.org/blazemeter/black/white" style="padding-right:10px;" /></a>
-            <a href="https://www.google.com/search?q=cypress"><img align="left" width="26px" src="https://cdn.simpleicons.org/cypress/black/white" style="padding-right:10px;" /></a>
-            <a href="https://www.google.com/search?q=selenium"><img align="left" width="26px" src="https://cdn.simpleicons.org/selenium/black/white" style="padding-right:10px;" /></a>
+            <a href="https://www.google.com/search?q=docker"><img align="left" width="26px" src="https://cdn.simpleicons.org/docker/black/white" style="padding-right:10px;"></a>
+            <a href="https://www.google.com/search?q=kubernetes"><img align="left" width="26px" src="https://cdn.simpleicons.org/kubernetes/black/white" style="padding-right:10px;"></a>
+            <a href="https://www.google.com/search?q=helm"><img align="left" width="26px" src="https://cdn.simpleicons.org/helm/black/white" style="padding-right:10px;"></a>
+            <a href="https://www.google.com/search?q=chainguard"><img align="left" width="26px" src="https://cdn.simpleicons.org/chainguard/black/white" style="padding-right:10px;"></a>
+            <a href="https://www.google.com/search?q=akamai"><img align="left" width="26px" src="https://cdn.simpleicons.org/akamai/black/white" style="padding-right:10px;"></a>
+            <a href="https://www.google.com/search?q=dynatrace"><img align="left" width="26px" src="https://cdn.simpleicons.org/dynatrace/black/white" style="padding-right:10px;"></a>
+            <a href="https://www.google.com/search?q=github+actions"><img align="left" width="26px" src="https://cdn.simpleicons.org/githubactions/black/white" style="padding-right:10px;"> </a>
         </td>
         <td>
             <a href="https://www.google.com/search?q=webpack"><img align="left" width="26px" src="https://cdn.simpleicons.org/webpack/black/white" style="padding-right:10px;" /></a>
@@ -87,13 +88,12 @@
     </tr>
     <tr>
         <td>
-            <a href="https://www.google.com/search?q=docker"><img align="left" width="26px" src="https://cdn.simpleicons.org/docker/black/white" style="padding-right:10px;"></a>
-            <a href="https://www.google.com/search?q=kubernetes"><img align="left" width="26px" src="https://cdn.simpleicons.org/kubernetes/black/white" style="padding-right:10px;"></a>
-            <a href="https://www.google.com/search?q=helm"><img align="left" width="26px" src="https://cdn.simpleicons.org/helm/black/white" style="padding-right:10px;"></a>
-            <a href="https://www.google.com/search?q=chainguard"><img align="left" width="26px" src="https://cdn.simpleicons.org/chainguard/black/white" style="padding-right:10px;"></a>
-            <a href="https://www.google.com/search?q=akamai"><img align="left" width="26px" src="https://cdn.simpleicons.org/akamai/black/white" style="padding-right:10px;"></a>
-            <a href="https://www.google.com/search?q=dynatrace"><img align="left" width="26px" src="https://cdn.simpleicons.org/dynatrace/black/white" style="padding-right:10px;"></a>
-            <a href="https://www.google.com/search?q=github+actions"><img align="left" width="26px" src="https://cdn.simpleicons.org/githubactions/black/white" style="padding-right:10px;"> </a>
+            <a href="https://www.google.com/search?q=jest"><img align="left" width="26px" src="https://cdn.simpleicons.org/jest/black/white" style="padding-right:10px;" /></a>
+            <a href="https://www.google.com/search?q=mocha"><img align="left" width="26px" src="https://cdn.simpleicons.org/mocha/black/white" style="padding-right:10px;" /></a>
+            <a href="https://www.google.com/search?q=apache+jmeter"><img align="left" width="26px" src="https://cdn.simpleicons.org/apachejmeter/black/white" style="padding-right:10px;" /></a>
+            <a href="https://www.google.com/search?q=blazemeter"><img align="left" width="26px" src="https://cdn.simpleicons.org/blazemeter/black/white" style="padding-right:10px;" /></a>
+            <a href="https://www.google.com/search?q=cypress"><img align="left" width="26px" src="https://cdn.simpleicons.org/cypress/black/white" style="padding-right:10px;" /></a>
+            <a href="https://www.google.com/search?q=selenium"><img align="left" width="26px" src="https://cdn.simpleicons.org/selenium/black/white" style="padding-right:10px;" /></a>
         </td>
     </tr>
 </table>
