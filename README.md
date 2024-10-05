@@ -15,7 +15,7 @@
 
 <details>
     <summary>Application Development</summary>
-    <h4>SKILLS</h4>
+    <h6>SKILLS</h6>
     <table>
         <tr>
             <th>Web Development</th>
@@ -105,7 +105,7 @@
 
 <details>
     <summary>Data Science</summary>
-    <h4>SKILLS</h4>
+    <h6>SKILLS</h6>
     <table>
         <tr>
             <th>Data Science & AI</th>
@@ -126,7 +126,7 @@
             </td>
         </tr>
     </table>     
-    <h3>PROJECTS</h3>
+    <h6>PROJECTS</h6>
     <a href="https://github.com/danielgros/Plants2LeafPC"> <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5"> </a>
 </details>
 
