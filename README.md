@@ -32,6 +32,12 @@
 </div>
 
 
+> ### Public Projects
+> [![Plants2LeafPC](https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5)](https://github.com/danielgros/Plants2LeafPC)
+> [![danielgros](https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=danielgros&description_lines_count=5)](https://github.com/danielgros/danielgros)
+
+
+
 
 ### Public Project Statistics
 ![Top Langs](https://github-readme-stats-daniel-gros-projects.vercel.app/api/top-langs/?username=danielgros&langs_count=20&layout=compact&size_weight=0&count_weight=1)
