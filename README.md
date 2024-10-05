@@ -17,7 +17,7 @@
 [![danielgros](https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=danielgros&description_lines_count=5)](https://github.com/danielgros/danielgros)
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats-daniel-gros-projects.vercel.app/api/top-langs/?username=danielgros&langs_count=20&layout=compact&size_weight=0.01&count_weight=0.99&hide_title=true&exclude_repo=Obsidian-Vault)
+![Top Langs](https://github-readme-stats-daniel-gros-projects.vercel.app/api/top-langs/?username=danielgros&langs_count=20&layout=compact&size_weight=0.1&count_weight=0.9&hide_title=true&exclude_repo=Obsidian-Vault)
 
 ### GitHub Statistics
 ![Daniel's GitHub stats](https://github-readme-stats-daniel-gros-projects.vercel.app/api?username=danielgros&show=reviews,prs_merged&show_icons=true&rank_icon=github&include_all_commits=true&disable_animations=true&hide_title=true&exclude_repo=Obsidian-Vault)
