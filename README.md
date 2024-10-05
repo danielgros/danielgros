@@ -3,10 +3,14 @@
 #### Connect With Me
 <a href="https://www.linkedin.com/in/danielmgros"> <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /> </a>
 
-<img height="32" src="https://cdn.simpleicons.org/linkedin?viewbox=auto" />
-
 
 #### Languages and Tools
+<div style="display: flex; align-items: center;">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" alt="JavaScript Icon" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" alt="TypeScript Icon" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="Python Icon" />
+</div>
+
 
 
 ----
