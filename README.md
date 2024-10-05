@@ -105,6 +105,7 @@
 
 <details>
     <summary>Data Science</summary>
+    <h4>Skills</h4>
     <table>
         <tr>
             <th>Data Science & AI</th>
@@ -124,7 +125,9 @@
                 <a href="https://www.google.com/search?q=teradata"><img align="left" width="26px" src="https://cdn.simpleicons.org/teradata/black/white" style="padding-right:10px;"></a>
             </td>
         </tr>
-    </table>        
+    </table>     
+    <h4>Projects</h4>
+    <a href="https://github.com/danielgros/Plants2LeafPC"> <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5"> </a>
 </details>
 
 
@@ -204,10 +207,6 @@
     <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api?username=danielgros&show=reviews,prs_merged&show_icons=true&rank_icon=github&include_all_commits=true&disable_animations=true&hide_title=true&exclude_repo=Obsidian-Vault">
 </details>
 
-<details>
-    <summary>Public Projects</summary>
-    <a href="https://github.com/danielgros/Plants2LeafPC"> <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5"> </a>
-</details>
 
 
 <!--
