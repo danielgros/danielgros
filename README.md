@@ -1,7 +1,7 @@
 ### Hi I'm Daniel :)
 
 #### Connect With Me
-<a href="linkedin.com/in/danielmgros"> <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /> </a>
+<a href="https://www.linkedin.com/in/danielmgros"> <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /> </a>
 
 <img height="32" src="https://cdn.simpleicons.org/linkedin?viewbox=auto" />
 
