@@ -5,19 +5,11 @@
 
 
 #### Languages and Tools
-
 <div style="display: flex; align-items: center;">
-    <img height="32" width="32" class="icon" src="https://cdn.simpleicons.org/javascript" alt="JavaScript Icon" />
-    <img height="32" width="32" class="icon" src="https://cdn.simpleicons.org/typescript" alt="TypeScript Icon" />
-    <img height="32" width="32" class="icon" src="https://cdn.simpleicons.org/python" alt="Python Icon" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" alt="JavaScript Icon" style="margin-right: 10px;" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" alt="TypeScript Icon" style="margin-right: 10px;" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="Python Icon" />
 </div>
-
-
-![10](https://cdn.simpleicons.org/javascript) &nbsp; &nbsp;
-![10](https://cdn.simpleicons.org/typescript) &nbsp; &nbsp;
-![10](https://cdn.simpleicons.org/python)
-
-
 
 
 
