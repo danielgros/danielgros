@@ -117,7 +117,6 @@
     <tr>
         <th>OS & Related</th>
         <th>Embedded Systems</th>
-        <th>Game Development</th>
     </tr>
     <tr>
         <td>
@@ -131,10 +130,6 @@
             <a href="https://www.google.com/search?q=arduino"><img align="left" width="26px" src="https://cdn.simpleicons.org/arduino/black/white" style="padding-right:10px;"></a>
             <a href="https://www.google.com/search?q=raspberry+pi"><img align="left" width="26px" src="https://cdn.simpleicons.org/raspberrypi/black/white" style="padding-right:10px;"></a>
         </td>
-        <td>
-            <a href="https://www.google.com/search?q=unreal+engine"><img align="left" width="26px" src="https://cdn.simpleicons.org/unrealengine/black/white" style="padding-right:10px;" /></a>
-            <a href="https://www.google.com/search?q=godotengine"><img align="left" width="26px" src="https://cdn.simpleicons.org/godotengine/black/white" style="padding-right:10px;" /></a>
-        </td>
     </tr>
 </table>
 
@@ -142,11 +137,16 @@
 <table>
     <tr>
         <th>UI/UX Tools</th>
+        <th>Game Development</th>
     </tr>
     <tr>
          <td>
             <a href="https://www.google.com/search?q=figma"><img align="left" width="26px" src="https://cdn.simpleicons.org/figma/black/white" style="padding-right:10px;" /></a>
             <a href="https://www.google.com/search?q=invision"><img align="left" width="26px" src="https://cdn.simpleicons.org/invision/black/white" style="padding-right:10px;" /></a>
+        </td>
+        <td>
+            <a href="https://www.google.com/search?q=unreal+engine"><img align="left" width="26px" src="https://cdn.simpleicons.org/unrealengine/black/white" style="padding-right:10px;" /></a>
+            <a href="https://www.google.com/search?q=godotengine"><img align="left" width="26px" src="https://cdn.simpleicons.org/godotengine/black/white" style="padding-right:10px;" /></a>
         </td>
     </tr>
 </table>
