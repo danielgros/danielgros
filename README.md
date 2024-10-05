@@ -1,5 +1,5 @@
 
-## Projects
+## Public Projects
 <p>
 <a style="text-decoration: none" align="left" href="https://github.com/danielgros/Plants2LeafPC">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&show_owner=false" />
@@ -10,10 +10,10 @@
 </p>
 
 
-## Github Stats
+## Github Stats for Public Repos I Own
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgros&show=reviews,prs_merged&show_icons=true&include_all_commits=true&disable_animations=true)
 
-## Language Stats
+## Language Stats for Public Repos I Own
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgros&langs_count=8&layout=compact)
 
 
