@@ -6,7 +6,7 @@
 
 👯 I’m looking to collaborate on any project that features emerging research
 
-🤔 I’m looking for recommendations of good resources for learning everything about software
+🤔 I’m looking for recommendations of good resources for learning anything and everything about software
 
 <br/>
 <br/>
