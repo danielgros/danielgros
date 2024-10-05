@@ -16,9 +16,10 @@
 ### Public Projects
 [![Plants2LeafPC](https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5)](https://github.com/danielgros/Plants2LeafPC)
 
+
+<!--
 ### Recent Activity
 <!--START_SECTION:activity-->
-
 
 
 <!-- more stats, these only use public repos
