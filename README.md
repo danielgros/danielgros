@@ -84,9 +84,13 @@
 
 <table>
     <tr>
-        <th>Testing & QA</th>
+        <th>Observability</th>
+        <th>Testing</th>
     </tr>
     <tr>
+        <td>
+            <a href="https://www.google.com/search?q=dynatrace"><img align="left" width="26px" src="https://cdn.simpleicons.org/dynatrace/black/white" style="padding-right:10px;" /></a>
+        </td>
         <td>
             <a href="https://www.google.com/search?q=jest"><img align="left" width="26px" src="https://cdn.simpleicons.org/jest/black/white" style="padding-right:10px;" /></a>
             <a href="https://www.google.com/search?q=mocha"><img align="left" width="26px" src="https://cdn.simpleicons.org/mocha/black/white" style="padding-right:10px;" /></a>
