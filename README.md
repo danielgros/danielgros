@@ -35,41 +35,45 @@
 <table>
     <tr>
         <th>Testing & QA</th>
-        <th>DevOps & Cloud</th>
+        <th>Infrastructure & DevOps</th>
         <th>Data Science & AI</th>
     </tr>
     <tr>
         <td>
-            <a href="https://www.google.com/search?q=cypress"><img align="left" width="26px" src="https://cdn.simpleicons.org/cypress/black/white" style="padding-right:10px;" /></a>
             <a href="https://www.google.com/search?q=jest"><img align="left" width="26px" src="https://cdn.simpleicons.org/jest/black/white" style="padding-right:10px;" /></a>
             <a href="https://www.google.com/search?q=mocha"><img align="left" width="26px" src="https://cdn.simpleicons.org/mocha/black/white" style="padding-right:10px;" /></a>
             <a href="https://www.google.com/search?q=apache+jmeter"><img align="left" width="26px" src="https://cdn.simpleicons.org/apachejmeter/black/white" style="padding-right:10px;" /></a>
             <a href="https://www.google.com/search?q=blazemeter"><img align="left" width="26px" src="https://cdn.simpleicons.org/blazemeter/black/white" style="padding-right:10px;" /></a>
+            <a href="https://www.google.com/search?q=cypress"><img align="left" width="26px" src="https://cdn.simpleicons.org/cypress/black/white" style="padding-right:10px;" /></a>
+            <a href="https://www.google.com/search?q=selenium"><img align="left" width="26px" src="https://cdn.simpleicons.org/selenium/black/white" style="padding-right:10px;" /></a>
         </td>
         <td>
             <a href="https://www.google.com/search?q=docker"><img align="left" width="26px" src="https://cdn.simpleicons.org/docker/black/white" style="padding-right:10px;"></a>
             <a href="https://www.google.com/search?q=kubernetes"><img align="left" width="26px" src="https://cdn.simpleicons.org/kubernetes/black/white" style="padding-right:10px;"></a>
             <a href="https://www.google.com/search?q=helm"><img align="left" width="26px" src="https://cdn.simpleicons.org/helm/black/white" style="padding-right:10px;"></a>
             <a href="https://www.google.com/search?q=chainguard"><img align="left" width="26px" src="https://cdn.simpleicons.org/chainguard/black/white" style="padding-right:10px;"></a>
+            <a href="https://www.google.com/search?q=akamai"><img align="left" width="26px" src="https://cdn.simpleicons.org/akamai/black/white" style="padding-right:10px;"></a>
+            <a href="https://www.google.com/search?q=dynatrace"><img align="left" width="26px" src="https://cdn.simpleicons.org/dynatrace/black/white" style="padding-right:10px;"></a>
+            <a href="https://www.google.com/search?q=github+actions"><img align="left" width="26px" src="https://cdn.simpleicons.org/githubactions/black/white" style="padding-right:10px;"> </a>
         </td>
         <td>
             <a href="https://www.google.com/search?q=tensorflow"><img align="left" width="26px" src="https://cdn.simpleicons.org/tensorflow/black/white" style="padding-right:10px;" /></a>
             <a href="https://www.google.com/search?q=apache+spark"><img align="left" width="26px" src="https://cdn.simpleicons.org/apachespark/black/white" style="padding-right:10px;" /></a>
             <a href="https://www.google.com/search?q=pandas"><img align="left" width="26px" src="https://cdn.simpleicons.org/pandas/black/white" style="padding-right:10px;"></a>
             <a href="https://www.google.com/search?q=scikit-learn"><img align="left" width="26px" src="https://cdn.simpleicons.org/scikitlearn/black/white" style="padding-right:10px;"></a>
+            <a href="https://www.google.com/search?q=anaconda"><img align="left" width="26px" src="https://cdn.simpleicons.org/anaconda/black/white" style="padding-right:10px;"></a>
         </td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <th>CI/CD</th>
+        <th>Build Tools</th>
         <th>Version Control</th>
-        <th>Infrastructure & OS</th>
+        <th>OS & Related</th>
     </tr>
     <tr>
         <td>
-            <a href="https://www.google.com/search?q=github+actions"><img align="left" width="26px" src="https://cdn.simpleicons.org/githubactions/black/white" style="padding-right:10px;"> </a>
             <a href="https://www.google.com/search?q=webpack"><img align="left" width="26px" src="https://cdn.simpleicons.org/webpack/black/white" style="padding-right:10px;" /></a>
             <a href="https://www.google.com/search?q=babel"><img align="left" width="26px" src="https://cdn.simpleicons.org/babel/black/white" style="padding-right:10px;" /></a>
         </td>
@@ -82,6 +86,7 @@
             <a href="https://www.google.com/search?q=ubuntu"><img align="left" width="26px" src="https://cdn.simpleicons.org/ubuntu/black/white" style="padding-right:10px;"></a>
             <a href="https://www.google.com/search?q=macos"><img align="left" width="26px" src="https://cdn.simpleicons.org/macos/black/white" style="padding-right:10px;"></a>
             <a href="https://www.google.com/search?q=zsh"><img align="left" width="26px" src="https://cdn.simpleicons.org/zsh/black/white" style="padding-right:10px;"></a>
+            <a href="https://www.google.com/search?q=gnubash"><img align="left" width="26px" src="https://cdn.simpleicons.org/gnubash/black/white" style="padding-right:10px;"></a>
         </td>
     </tr>
 </table>
@@ -89,8 +94,9 @@
 <table>
     <tr>
         <th>Databases</th>
-        <th>Embedded Systems & Low-Level Programming</th>
-        <th>Miscellaneous Tools</th>
+        <th>Embedded Systems</th>
+        <th>Game Development</th>
+        <th>UI/UX Tools</th>
     </tr>
     <tr>
         <td>
@@ -102,22 +108,8 @@
             <a href="https://www.google.com/search?q=raspberry+pi"><img align="left" width="26px" src="https://cdn.simpleicons.org/raspberrypi/black/white" style="padding-right:10px;"></a>
         </td>
         <td>
-            <a href="https://www.google.com/search?q=npm"><img align="left" width="26px" src="https://cdn.simpleicons.org/npm/black/white" style="padding-right:10px;"></a>
-            <a href="https://www.google.com/search?q=anaconda"><img align="left" width="26px" src="https://cdn.simpleicons.org/anaconda/black/white" style="padding-right:10px;"></a>
-            <a href="https://www.google.com/search?q=libreoffice"><img align="left" width="26px" src="https://cdn.simpleicons.org/libreoffice/black/white" style="padding-right:10px;"></a>
-            <a href="https://www.google.com/search?q=gnubash"><img align="left" width="26px" src="https://cdn.simpleicons.org/gnubash/black/white" style="padding-right:10px;"></a>
-        </td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <th>Game Development</th>
-        <th>UI/UX Tools</th>
-    </tr>
-    <tr>
-        <td>
             <a href="https://www.google.com/search?q=unreal+engine"><img align="left" width="26px" src="https://cdn.simpleicons.org/unrealengine/black/white" style="padding-right:10px;" /></a>
+            <a href="https://www.google.com/search?q=godot"><img align="left" width="26px" src="https://cdn.simpleicons.org/godot/black/white" style="padding-right:10px;" /></a>
         </td>
         <td>
             <a href="https://www.google.com/search?q=figma"><img align="left" width="26px" src="https://cdn.simpleicons.org/figma/black/white" style="padding-right:10px;" /></a>
