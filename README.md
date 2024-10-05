@@ -16,7 +16,7 @@
 <details>
     <summary>Application Development</summary>
     <h6>SKILLS</h6>
-<table>
+<table style="white-space: nowrap;">
     <tr>
         <th>Web Development</th>
         <th>Mobile Development</th>
