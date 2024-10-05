@@ -1,14 +1,16 @@
 ### Hi I'm Daniel :)
 
 #### Connect With Me
-<a href="https://www.linkedin.com/in/danielmgros"> <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /> </a>
-
+<a href="https://www.linkedin.com/in/danielmgros"> <img align="left" width="26px" src="https://cdn.simpleicons.org/linkedin" style="padding-right:10px;" /> </a>
+<img align="left" width="26px" src="https://cdn.simpleicons.org/typescript" style="padding-right:10px;" />
+<img align="left" width="26px" src="https://cdn.simpleicons.org/python" style="padding-right:10px;" />
+<br />
 
 #### Languages and Tools
 <img align="left" width="26px" src="https://cdn.simpleicons.org/javascript" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.simpleicons.org/typescript" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.simpleicons.org/python" style="padding-right:10px;" />
-
+<br />
 
 ----
 
