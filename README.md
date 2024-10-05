@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Daniel</h1>
-<h3 align="center">software professional & hardware hobbyist</h3>
+<h3 align="left">software professional & hardware hobbyist</h3>
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/danielmgros"> <img align="left" width="26px" src="https://cdn.simpleicons.org/linkedin" style="padding-right:10px;" /> </a>
@@ -25,7 +25,7 @@
 <a href="https://google.com"> <img align="left" width="26px" src="https://cdn.simpleicons.org/selenium" style="padding-right:10px;" /> </a>
 <br />
 
-#### AI
+#### Artificial Intelligence
 <a href="https://google.com"> <img align="left" width="26px" src="https://cdn.simpleicons.org/tensorflow" style="padding-right:10px;" /> </a>
 <a href="https://google.com"> <img align="left" width="26px" src="https://cdn.simpleicons.org/apachespark" style="padding-right:10px;" /> </a>
 <a href="https://google.com"> <img align="left" width="26px" src="https://cdn.simpleicons.org/opencv" style="padding-right:10px;" /> </a>
@@ -47,17 +47,13 @@
 > **Note:**
 > These statistics do NOT include contributions made to private repositories or repositories owned by other organizations such as my employer
 
-----
-
-<!--START_SECTION:activity-->
-
-
-----
 
 <!-- more stats
 ![](https://github-profile-trophy.vercel.app/?username=danielgros)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=danielgros)
 -->
+
+<!--START_SECTION:activity-->
 
 <!--
 **danielgros/danielgros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
