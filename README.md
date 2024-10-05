@@ -76,6 +76,8 @@
         <td>
             <a href="https://www.google.com/search?q=webpack"><img align="left" width="26px" src="https://cdn.simpleicons.org/webpack/black/white" style="padding-right:10px;" /></a>
             <a href="https://www.google.com/search?q=babel"><img align="left" width="26px" src="https://cdn.simpleicons.org/babel/black/white" style="padding-right:10px;" /></a>
+            <a href="https://www.google.com/search?q=cmake"><img align="left" width="26px" src="https://cdn.simpleicons.org/cmake/black/white" style="padding-right:10px;" /></a>
+            <a href="https://www.google.com/search?q=gradle"><img align="left" width="26px" src="https://cdn.simpleicons.org/gradle/black/white" style="padding-right:10px;" /></a>
         </td>
         <td>
             <a href="https://www.google.com/search?q=git"><img align="left" width="26px" src="https://cdn.simpleicons.org/git/black/white" style="padding-right:10px;" /></a>
