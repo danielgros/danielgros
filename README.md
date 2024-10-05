@@ -45,6 +45,7 @@
             </td>
         </tr>
     </table>
+    <br/>
 </details>
 
 
@@ -77,6 +78,7 @@
             </td>
         </tr>
     </table>
+    <br/>
 </details>
 
 
@@ -101,6 +103,7 @@
             </td>
         </tr>
     </table>
+    <br/>
 </details>
 
 <details>
@@ -125,9 +128,11 @@
                 <a href="https://www.google.com/search?q=teradata"><img align="left" width="26px" src="https://cdn.simpleicons.org/teradata/black/white" style="padding-right:10px;"></a>
             </td>
         </tr>
-    </table>     
+    </table>   
+    <br/>
     <h6>PROJECTS</h6>
     <a href="https://github.com/danielgros/Plants2LeafPC"> <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api/pin/?username=danielgros&repo=Plants2LeafPC&description_lines_count=5"> </a>
+    <br/>
 </details>
 
 
