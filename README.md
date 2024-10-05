@@ -1,6 +1,10 @@
 ### Hi I'm Daniel :)
 
-I'm a software developer working at American Airlines
+#### Connect With Me
+
+
+#### Languages and Tools
+
 
 ----
 
