@@ -6,16 +6,15 @@
 
 #### Languages and Tools
 <div style="display: flex; align-items: center;">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" alt="JavaScript Icon" style="margin-right: 10px;" />
+    <img height="32" width="32" src="" alt="JavaScript Icon" style="margin-right: 10px;" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" alt="TypeScript Icon" style="margin-right: 10px;" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="Python Icon" />
 </div>
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" alt="JavaScript Icon" /> 
-&nbsp; &nbsp; 
-<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" alt="TypeScript Icon" /> 
-&nbsp; &nbsp; 
-<img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="Python Icon" />
+
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.simpleicons.org/javascript" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
 
 
 ----
