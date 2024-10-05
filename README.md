@@ -12,6 +12,10 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/_/eee" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/eee/_" />
 
+<img height="20" src="https://cdn.simpleicons.org/github?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/simpleicons?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/awesomelists?viewbox=auto" />
+
 #### Languages and Tools
 
 
