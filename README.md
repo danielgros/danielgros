@@ -1,11 +1,15 @@
 ## Hi I'm Daniel :)
 
 🔭 I’m working on exploring all the different areas within software
+
 🌱 I’m currently learning data science
+
 👯 I’m looking to collaborate on any project that features emerging research
+
 🤔 I’m looking for recommendations of good resources for learning everything about software
 
-
+<br/>
+<br/>
 
 ## Languages and Tools
 
