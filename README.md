@@ -5,7 +5,7 @@
 
 
 #### Languages and Tools
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 20px;">
     <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" alt="JavaScript Icon" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" alt="TypeScript Icon" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="Python Icon" />
