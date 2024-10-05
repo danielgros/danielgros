@@ -46,11 +46,14 @@
         </tr>
     </table>
     <br/>
+    <h6>PROJECTS</h6>
+    <br/>
 </details>
 
 
 <details>
     <summary>Infrastructure & DevOps</summary>
+    <h6>SKILLS</h6>
     <table>
         <tr>
             <th>Infrastructure & DevOps</th>
@@ -79,11 +82,14 @@
         </tr>
     </table>
     <br/>
+    <h6>PROJECTS</h6>
+    <br/>
 </details>
 
 
 <details>
     <summary>Quality Assurance</summary>
+    <h6>SKILLS</h6>
     <table>
         <tr>
             <th>Observability</th>
@@ -103,6 +109,8 @@
             </td>
         </tr>
     </table>
+    <br/>
+    <h6>PROJECTS</h6>
     <br/>
 </details>
 
@@ -138,6 +146,7 @@
 
 <details>
     <summary>Game Development</summary>
+    <h6>SKILLS</h6>
     <table>
         <tr>
             <th>Game Development</th>
@@ -149,10 +158,14 @@
             </td>
         </tr>
     </table>
+    <br/>
+    <h6>PROJECTS</h6>
+    <br/>
 </details>
 
 <details>
     <summary>OS & Related</summary>
+    <h6>SKILLS</h6>
     <table>
         <tr>
             <th>OS & Related</th>
@@ -173,11 +186,15 @@
             </td>
         </tr>
     </table>
+    <br/>
+    <h6>PROJECTS</h6>
+    <br/>
 </details>
 
 
 <details>
     <summary>Programming Languages</summary>
+    <h6>SKILLS</h6>
     <table>
         <tr>
             <th>General-Purpose Programming Languages</th>
@@ -192,6 +209,9 @@
             </td>
         </tr>
     </table>
+    <br/>
+    <h6>PROJECTS</h6>
+    <br/>
 </details>
 
 
