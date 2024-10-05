@@ -12,14 +12,14 @@
 <img align="left" width="26px" src="https://cdn.simpleicons.org/javascript" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.simpleicons.org/typescript" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.simpleicons.org/python" style="padding-right:10px;" />
-
+<br />
 
 #### Testing
 <img align="left" width="26px" src="https://cdn.simpleicons.org/cypress" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.simpleicons.org/jest" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.simpleicons.org/mocha" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.simpleicons.org/selenium" style="padding-right:10px;" />
-
+<br />
 
 #### AI
 <img align="left" width="26px" src="https://cdn.simpleicons.org/tensorflow" style="padding-right:10px;" />
