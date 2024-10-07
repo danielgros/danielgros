@@ -253,13 +253,13 @@
 
 <details>
     <summary>Most Used Languages</summary>
-    <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api/top-langs/?username=danielgros&langs_count=20&layout=compact&size_weight=0.1&count_weight=0.9&hide_title=true&exclude_repo=Obsidian-Vault">
+    <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api/top-langs/?username=danielgros&langs_count=20&layout=compact&size_weight=0&count_weight=1&hide_title=true&exclude_repo=Obsidian-Vault">
 </details> 
 
 
 <details>
     <summary>GitHub Statistics</summary>
-    <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api?username=danielgros&show=reviews,prs_merged&show_icons=true&rank_icon=github&include_all_commits=true&disable_animations=true&hide_title=true&exclude_repo=Obsidian-Vault">
+    <img src="https://github-readme-stats-daniel-gros-projects.vercel.app/api?username=danielgros&show=reviews,prs_merged&show_icons=true&rank_icon=github&include_all_commits=true&hide_title=true&exclude_repo=Obsidian-Vault">
 </details>
 
 
