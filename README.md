@@ -252,7 +252,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=danielgros)
 
 ### GitHub Streaks
-![](https://github-readme-streak-stats.herokuapp.com/?user=danielgros)
+![](https://github-readme-streak-stats.herokuapp.com/?user=danielgros&cache_seconds=1800)
 --> 
 
 <!--
